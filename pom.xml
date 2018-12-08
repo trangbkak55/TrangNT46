@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>viettel</groupId>
-  <artifactId>autotest</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>autotest2</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
 
-  <name>autotest</name>
+  <name>autotest2</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -25,6 +25,13 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+    
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+    <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>3.141.0</version>
+	</dependency>
   </dependencies>
 
   <build>
