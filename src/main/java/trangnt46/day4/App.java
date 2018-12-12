@@ -1,4 +1,4 @@
-package viettel.autotest2;
+package trangnt46.day4;
 
 /**
  * Hello world!
